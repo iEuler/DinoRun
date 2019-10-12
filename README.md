@@ -1,4 +1,4 @@
 # DinoRun
 Use REINFORCEMENT LEARNING for chrome dinosaur game
 
-Learning Series.
+Learning Series. Test commit and push.
