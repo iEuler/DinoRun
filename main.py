@@ -12,3 +12,4 @@ browser = webdriver.Chrome(executable_path=chromebrowser_path, chrome_options=ch
 browser.get('chrome://dino')
 browser.maximize_window()
 
+# add comment
